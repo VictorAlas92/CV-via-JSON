@@ -1,29 +1,15 @@
+## 🚀 Project
+
+Create your own printable Portfolio/CV just modifying `cv.jason`
+
 # Résumé minimalista maquetado para web y pdf
 
-- Esquema del JSON de CV de [**jsonresume.org**](https://jsonresume.org/schema).
-- Basado en el diseño de [**Bartosz Jarocki**](https://github.com/BartoszJarocki/cv).
+- Based on JSON CV Esquema from [**jsonresume.org**](https://jsonresume.org/schema).
+- Based on design of [**Bartosz Jarocki**](https://github.com/BartoszJarocki/cv).
 
 ## 🛠️ Stack
 - [**Astro**](https://astro.build/) - El framework web.
 - [**Typescript**](https://www.typescriptlang.org/) - JavaScript con sintaxis de tipado.
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src
-│   ├── assets
-│   │   └── astro.svg
-│   ├── layouts
-│   │   └── Layout.astro
-│   └── pages
-│       └── index.astro
-└── package.json
-```
 
 ## 🧞 Commands
 
