@@ -16,12 +16,15 @@ const SOCIAL_ICONS: Record<string, any> = {
   X: X,
   LinkedIn: LinkedIn,
   GitHub: GitHub,
+  Portfolio: WorldMap,
 };
 
 const linkedInUrl =
   profiles?.find((p) => p.network === "LinkedIn")?.url || null;
 const githubUrl =
   profiles?.find((p) => p.network === "GitHub")?.url || null;
+const portfolioUrl =
+  profiles?.find((p) => p.network === "Portfolio")?.url || null;
 
 const printInfo = [email, phone, linkedInUrl, githubUrl].join(" • ");
 ---
@@ -124,6 +127,8 @@ const printInfo = [email, phone, linkedInUrl, githubUrl].join(" • ");
   }
 
   footer {
+    font-size: 0.65rem;
+    color: #555;
     display: flex;
     gap: 4px;
     margin-top: 8px;
