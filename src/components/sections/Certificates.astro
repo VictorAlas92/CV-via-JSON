@@ -3,7 +3,7 @@ import Section from "@/components/Section.astro";
 import { certificates } from "@cv";
 ---
 
-<Section title="Certificates">
+<Section title="Certificates" className="no-print">
   <ul>
     {
       certificates.map(({ name, date, issuer, summary }) => {
