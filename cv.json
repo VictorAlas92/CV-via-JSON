@@ -33,39 +33,67 @@
       {
         "network": "Portfolio",
         "username": "victoralas92",
-        "url": "https://VictorAlas92.com/"
+        "url": "http://victoralas92.github.io/"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Freelance",
+      "position": "FrontEnd Developer",
+      "url": null,
+      "startDate": "2025-04-01",
       "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
+      "summary": "• Development of responsive web applications. • Collaboration with clients to understand their needs. • Continuous learning and improvement of skills in web development.",
+      "schema": "Remote",
+      "highlights": [
+        "css", "html", "javascript", "react", "nextjs", "tailwindcss"
+      ]
+    },
+    {
+      "name": "Continental Automotive Guadalajara ",
+      "position": "Central ICT Test Engineer",
+      "url": null,
+      "startDate": "2023-04-01",
+      "endDate": null,
+      "summary": "• Proposal of improvements and corrections for the processes. • Analysis, measurement and monitoring of existing work methods. • Budget control, evaluation of equipment and resource costs. • Troubleshooting during the project introduction process.",
+      "schema": "On site",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
+      "name": "Continental Automotive Guadalajara ",
+      "position": "Maintenance and Support Lead",
+      "url": null,
+      "startDate": "2022-08-01",
+      "endDate": "2022-11-01",
+      "summary": "• Along with my activities as test support engineer, I took the leadership of the maintenance and support department. • Optimization of the maintenance budget, management of department materials and collaboration in the improvement plan.• Preparation of reports and briefings about the activities performed and administrative tasks. • Management of a technical team of 5 engineers and 14 technicians, planning of tasks and work shifts.",
+      "schema": "On site",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Continental Automotive Guadalajara ",
+      "position": "ICT Test Support Engineer",
+      "url": null,
       "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
+      "endDate": "2023-04-01",
+      "summary": "• Proposal of improvements and corrections for the processes. • Analysis, measurement and monitoring of existing work methods. • Budget control, evaluation of equipment and resource costs. • Troubleshooting during the project introduction process.",
+      "schema": "On site",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
+      "name": "Continental Automotive Guadalajara ",
+      "position": "Product Engineer Trainee ",
+      "url": null,
+      "startDate": "2016-03-01",
+      "endDate": "2023-06-01",
+      "summary": "• In charge of database development, as well as failure analysis and diagnosis of automotive electronics projects.",
+      "schema": "On site",
       "highlights": [
         "Started the company"
       ]
@@ -83,15 +111,26 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
+    "institution": "Centro de enseñanza técnica industrial",
+    "url": "https://www.tonala.ceti.mx/portal/",
+    "area": "Mechatronics Engineer",
     "studyType": "Bachelor",
     "startDate": "2003-01-01",
     "endDate": "2009-01-01",
-    "score": "4.0",
+    "score": "96.8",
     "courses": [
-      "DB1101 - Basic SQL"
+      "Control systems","Electronics","Robotics","Industrial automation","Programming logic"
+    ]
+  },{
+    "institution": "Centro de enseñanza técnica industrial",
+    "url": "https://www.tonala.ceti.mx/portal/",
+    "area": "Software development technologist: Software Development",
+    "studyType": "Bachelor",
+    "startDate": "2007-08-01",
+    "endDate": "2011-07-01",
+    "score": "100.0",
+    "courses": [
+      "Web development","POO","Estructured programming","Databases","Desktop applications"
     ]
   }],
   "awards": [{
@@ -101,10 +140,41 @@
     "summary": "There is no spoon."
   }],
   "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
+    "name": "Autodidacta en Desarrollo Web",
+    "date": "2025-02-01",
+    "issuer": "Multiple platforms",
+    "url": null,
+    "summary": " Continuous learning through various online platforms such as Platzi, Udemy, and YouTube. Acquired skills in HTML, CSS, JavaScript, Tailwind CSS, and GitHub."
+  },{
+    "name": "Curso Práctico de Frontend Developer",
+    "date": "2022-08-01",
+    "issuer": "Platzi",
+    "url": "https://platzi.com/home/",
+    "summary": "Development of web interfaces with HTML and CSS, applying semantic structure, styling, advanced layout and positioning techniques, and responsive design to produce clean and efficient code."
+  },{
+    "name": "Curso de Pensamiento Lógico: Lenguajes de Programación",
+    "date": "2022-08-01",
+    "issuer": "Platzi",
+    "url": "https://platzi.com/home/",
+    "summary": "Knowledge of variables, data types, control structures, functions, and object-oriented programming. Skilled in applying logical thinking to problem-solving and algorithm design."
+  },{
+    "name": "Curso Profesional de Git y GitHub",
+    "date": "2022-06-01",
+    "issuer": "Platzi",
+    "url": "https://platzi.com/home/",
+    "summary": "Skilled in repositories, commits, branches, and merges. Experience with version control, collaborative workflows using pull requests, and project management on GitHub."
+  },{
+    "name": "i3070 User Fundamentals | 45 h",
+    "date": "2022-06-01",
+    "issuer": "Interlatin Test Training Center",
+    "url": null,
+    "summary": "Translation of CAD data to test files (generic description) · Completion of the board’s description using the Board Consultant · Generation of test files using a Test Consultant · Generation of files needed to build the test fixture using the Test Consultant"
+  },{
+    "name": "i3070 Maintenance Fundamentals | 45 h",
+    "date": "2022-06-01",
+    "issuer": "Interlatin Test Training Center",
+    "url": null,
+    "summary": "understanding of the Keysight 3070 service documentation, Confirmation, and Diagnostics, System-level card operation, power, analog, digital, and control subsystem operation, and troubleshooting."
   }],
   "publications": [{
     "name": "Publication",
@@ -116,79 +186,116 @@
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "level",
       "keywords": [
         "Web development", "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "level",
       "keywords": [
         "Web development", "Frontend", "Diseño Responsive"
       ]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
+      "level": "level",
       "keywords": [
         "Web development", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
       "name": "Tailwind",
-      "level": "Advanced",
+      "level": "level",
       "keywords": [
         "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
       ]
     },
     {
       "name": "TypeScript",
-      "level": "Advanced",
+      "level": "level",
       "keywords": [
         "Web development", "Frontend", "Backend", "JavaScript Superset"
       ]
     },
     {
-      "name": "Node",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Advanced",
-      "keywords": [
-        "Bases de Datos", "SQL", "Database", "Backend"
-      ]
-    },
-    {
       "name": "Git",
-      "level": "Advanced",
+      "level": "level",
       "keywords": [
         "Version control", "Colaboración", "Source code"
       ]
     },
     {
       "name": "GitHub",
-      "level": "Advanced",
+      "level": "level",
       "keywords": [
         "Version control", "Collaboration", "Source code", "Git"
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Advanced",
+      "name": "Agilent HP3070 Tester",
+      "level": "level",
       "keywords": [
-        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
+        "ICT", "Testing", "Electronics"
       ]
     },
     {
-      "name": "React",
-      "level": "Advanced",
+      "name": "BT Basic",
+      "level": "level",
       "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
+        "ICT", "Testing", "Electronics", "Programming", "Test development"
+      ]
+    },
+    {
+      "name": "Interpretation schematics",
+      "level": "level",
+      "keywords": [
+        "Electronics", "Schematics", "Circuits"
+      ]
+    }
+  ],
+  "softSkills": [
+    {
+      "name": "Budget management",
+      "level": "level",
+      "keywords": [
+        "Electronics", "Schematics", "Circuits"
+      ]
+    },
+    {
+      "name": "Effective time management",
+      "level": "level",
+      "keywords": [
+        "Productivity", "Efficiency", "Prioritization"
+      ]
+    },
+    {
+      "name": "Reflective",
+      "level": "level",
+      "keywords": [
+        "Continuous improvement", "Learning", "Growth mindset"
+      ]
+    },
+    {
+      "name": "proactive",
+      "level": "level",
+      "keywords": [
+        "Initiative", "Problem-solving", "Self-motivation"
+      ]
+    },
+    {
+      "name": "Conflict resolution skills",
+      "level": "level",
+      "keywords": [
+        "Communication", "Empathy", "Negotiation"
+      ]
+    },
+    {
+      "name": "analytical mindset",
+      "level": "level",
+      "keywords": [
+        "Critical thinking", "Data analysis", "Problem-solving"
       ]
     }
   ],
@@ -210,8 +317,13 @@
     ]
   }],
   "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
+    "name": "Carlos Fabian Ascencio",
+    "reference": "Sr. frontend developer at unosquare",
+    "telefono": "+52 333-556-7902"
+  },{
+    "name": "Jaime Madrigal Juarez",
+    "reference": "process engineer at Continental automotive",
+    "telefono": "+52 333-196-0101"
   }],
   "projects": [
     {
