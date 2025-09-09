@@ -327,66 +327,39 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Kidstop leader board",
       "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
+      "description": "Leaderboard for tournament record of Pokemon TCG, event management for Kidstop.",
       "highlights": [
-        "Choose your own adventure",
-        "In progress"
+        "Pokémon TCG tournaments",
+        "Pokémon events"
       ],
-      "url": "https://mars.codes"
+      "url": "https://leaderboard.kidstop.com.mx/",
+      "github": null
     },
     {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
+      "name": "name",
+      "isActive": null,
+      "description": "description",
       "highlights": [
-        "+1 million visits",
+        "JavaScript",
         "Multilanguage",
-        "JavaScript & TypeScript"
+        "TypeScript"
       ],
-      "url": "https://advent.js/dev"
+      "url": null,
+      "github": null
     },
     {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
+      "name": "name",
+      "isActive": null,
+      "description": "description",
       "highlights": [
-        "+2000 active users",
-        "Challenges for any language"
+        "JavaScript",
+        "Multilanguage",
+        "TypeScript"
       ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
-      "highlights": [
-        "100k monthly visit",
-        "Developed by the community"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "List of technical tests of companies to practice programming",
-      "highlights": [
-        "100% free",
-        "+500 community solutions"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
-      "highlights": [
-        "+15k tickets handed over",
-        "+50k live viewers"
-      ],
-      "url": "https://miduconf.com"
+      "url": null,
+      "github": null
     }
   ]
 }
