@@ -47,7 +47,7 @@
       "summary": "• Development of responsive web applications. • Collaboration with clients to understand their needs. • Continuous learning and improvement of skills in web development.",
       "schema": "Remote",
       "highlights": [
-        "css", "html", "javascript", "react", "nextjs", "tailwindcss"
+        "css", "html", "javascript", "tailwindcss"
       ]
     },
     {
@@ -331,8 +331,7 @@
       "isActive": true,
       "description": "Leaderboard for tournament record of Pokemon TCG, event management for Kidstop.",
       "highlights": [
-        "Pokémon TCG tournaments",
-        "Pokémon events"
+        "css", "html", "javascript", "tailwindcss"
       ],
       "url": "https://leaderboard.kidstop.com.mx/",
       "github": null
