@@ -7,6 +7,7 @@ import X from "@/icons/X.astro";
 import LinkedIn from "@/icons/LinkedIn.astro";
 import GitHub from "@/icons/GitHub.astro";
 import WorldMap from "@/icons/WorldMap.astro";
+import Printer from "@/icons/printer.astro";
 
 const { name, label, image, location, profiles, phone, email } =
   basics;
@@ -78,6 +79,18 @@ const printInfo = [email, phone, linkedInUrl, githubUrl].join(" • ");
                 </a>
               );
             })
+        }
+        {
+          (
+            <a
+              href="#"
+              onclick="window.print();return false;"
+              title={`imprimir CV de ${name}`}
+              target="_blank"
+              rel="noopener noreferrer">
+              <Printer />
+            </a>
+          )
         }
       </footer>
     </div>
