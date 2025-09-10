@@ -49,6 +49,7 @@ import { projects } from "@cv";
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 1rem;
   }
+
   article {
     border: 1px solid #f2f2f2;
     border-radius: 8px;
@@ -95,5 +96,11 @@ import { projects } from "@cv";
   }
   article h3 span {
     color: rgb(61, 214, 61);
+  }
+
+  @media (max-width: 450px) {
+    article {
+      height: auto;
+    }
   }
 </style>
