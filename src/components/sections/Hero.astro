@@ -130,6 +130,23 @@ const printInfo = [email, phone, linkedInUrl, githubUrl].join(" • ");
     width: 128px;
     object-fit: cover;
   }
+
+  @media (max-width: 450px) {
+    .container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 1rem;
+    }
+    img {
+      aspect-ratio: 1/1;
+      border-radius: 6px;
+      width: 256px;
+      object-fit: cover;
+    }
+  }
+
   span {
     display: flex;
     align-items: center;

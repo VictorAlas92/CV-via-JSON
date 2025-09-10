@@ -20,7 +20,7 @@ import { work } from "@cv";
           const endYear =
             endDate != null
               ? new Date(endDate).getFullYear()
-              : "present";
+              : "Actual";
 
           const years = `${startYear} - ${endYear}`;
           return (
@@ -62,10 +62,10 @@ import { work } from "@cv";
 
   section div {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     gap: 4px;
-
-    align-items: center;
+    align-items: flex-start;
+    width: 590px;
   }
   section ul {
     display: flex;
@@ -80,7 +80,6 @@ import { work } from "@cv";
     border-radius: 6px;
     padding: 0.1rem 0.25rem;
   }
-
   header {
     display: flex;
     flex-direction: row;
@@ -100,5 +99,26 @@ import { work } from "@cv";
   time {
     font-size: 0.85rem;
     color: #666;
+  }
+  @media (max-width: 450px) {
+    section {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+    section div {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 8px;
+      width: fit-content;
+    }
+    header {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 8px;
+    }
+    time {
+      align-self: flex-start;
+    }
   }
 </style>
