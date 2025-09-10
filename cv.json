@@ -140,25 +140,25 @@
     "summary": "There is no spoon."
   }],
   "certificates": [{
-    "name": "Autodidacta en Desarrollo Web",
+    "name": "Self-taught in Web Development",
     "date": "2025-02-01",
     "issuer": "Multiple platforms",
     "url": null,
     "summary": " Continuous learning through various online platforms such as Platzi, Udemy, and YouTube. Acquired skills in HTML, CSS, JavaScript, Tailwind CSS, and GitHub."
   },{
-    "name": "Curso Práctico de Frontend Developer",
+    "name": "Practical Course of Frontend Developer",
     "date": "2022-08-01",
     "issuer": "Platzi",
     "url": "https://platzi.com/home/",
     "summary": "Development of web interfaces with HTML and CSS, applying semantic structure, styling, advanced layout and positioning techniques, and responsive design to produce clean and efficient code."
   },{
-    "name": "Curso de Pensamiento Lógico: Lenguajes de Programación",
+    "name": "Course of Logical Thinking: Programming Languages",
     "date": "2022-08-01",
     "issuer": "Platzi",
     "url": "https://platzi.com/home/",
     "summary": "Knowledge of variables, data types, control structures, functions, and object-oriented programming. Skilled in applying logical thinking to problem-solving and algorithm design."
   },{
-    "name": "Curso Profesional de Git y GitHub",
+    "name": "Professional Course on Git and GitHub",
     "date": "2022-06-01",
     "issuer": "Platzi",
     "url": "https://platzi.com/home/",
