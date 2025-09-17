@@ -44,10 +44,10 @@
       "url": null,
       "startDate": "2025-04-01",
       "endDate": null,
-      "summary": "• Development of responsive web applications. • Collaboration with clients to understand their needs. • Continuous learning and improvement of skills in web development.",
+      "summary": "• Continuous learning and improvement of skills in web development. • Exited to take on new challenges and collaborate on web development projects.",
       "schema": "Remote",
       "highlights": [
-        "css", "html", "javascript", "tailwindcss"
+        "css", "html", "javascript", "tailwindcss", "typescript", "git", "github"
       ]
     },
     {
@@ -337,25 +337,19 @@
       "github": null
     },
     {
-      "name": "name",
+      "name": null,
       "isActive": null,
-      "description": "description",
+      "description": null,
       "highlights": [
-        "JavaScript",
-        "Multilanguage",
-        "TypeScript"
       ],
       "url": null,
       "github": null
     },
     {
-      "name": "name",
+      "name": null,
       "isActive": null,
-      "description": "description",
+      "description": null,
       "highlights": [
-        "JavaScript",
-        "Multilanguage",
-        "TypeScript"
       ],
       "url": null,
       "github": null

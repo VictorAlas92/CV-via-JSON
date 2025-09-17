@@ -24,7 +24,7 @@ import { projects } from "@cv";
                     title={`ver el proyecto ${name}`}
                     target="_blank"
                     rel="noopener noreferrer">
-                    {name}
+                    {name ?? "Waiting new challenge"}
                   </a>
                   {isActive && <span>&bull;</span>}
                 </h3>
