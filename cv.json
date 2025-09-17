@@ -59,7 +59,7 @@
       "summary": "• Proposal of improvements and corrections for the processes. • Analysis, measurement and monitoring of existing work methods. • Budget control, evaluation of equipment and resource costs. • Troubleshooting during the project introduction process.",
       "schema": "On site",
       "highlights": [
-        "BT Basic", "Agilent 3070", "Fixture development", "Test optimization", "Debugging", "suport other locations"
+        "BT Basic", "Agilent 3070", "Fixture development", "Test optimization", "Debugging", "support other locations"
       ]
     },
     {
@@ -115,8 +115,8 @@
     "url": "https://www.tonala.ceti.mx/portal/",
     "area": "Mechatronics Engineer",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2012-08-01",
+    "endDate": "2016-07-01",
     "score": "96.8",
     "courses": [
       "Control systems","Electronics","Robotics","Industrial automation","Programming logic"
